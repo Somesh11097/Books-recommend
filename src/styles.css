@@ -4,7 +4,7 @@
 }
 html {
   font-size: 62.5%;
-  background: #111312;
+  background: black;
   box-sizing: border-box;
 }
 h1 {
@@ -37,7 +37,7 @@ button {
 
 button:hover,
 button:focus {
-  background-color: #b4720d;
+  background-color: blue;
   box-shadow: 0 0 5px 0 #b2b2b2;
   color: whitesmoke;
 }
